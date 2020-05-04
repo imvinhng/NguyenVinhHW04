@@ -1,0 +1,2 @@
+# NguyenVinhHW04
+In your text, Building Java Programs, 5th Edition, please submit solutions for Chapter 13, Exercise 5 and 10 on page 888, and exercises 6 and 13, in Chapter 14 on page 925.  You must read all the beginning paragraphs on page 925, and view them as part of the exercise specifications for exercises 6 and 13. Please read the complete criteria in the Rubric HW04 for additional details.
